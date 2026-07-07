@@ -2,7 +2,7 @@
 
 ## Data Integration Engineer | ETL Developer | System Support Engineer
 
-I have 4+ years of experience designing, developing, and supporting enterprise integration solutions.
+I have 5+ years of experience designing, developing, and supporting enterprise integration solutions.
 
 My expertise includes:
 
@@ -62,8 +62,8 @@ Coming Soon
 
 LinkedIn
 
-(Your LinkedIn)
+https://tinyurl.com/syaifulnizamLinkedin
 
 Email
 
-(Your Email)
+syaifulnizam.rwork@gmail.com
