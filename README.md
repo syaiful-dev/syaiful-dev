@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋 I'm Syaiful
 
-<!--
-**syaiful-dev/syaiful-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Integration Engineer | ETL Developer | System Support Engineer
 
-Here are some ideas to get you started:
+I have 4+ years of experience designing, developing, and supporting enterprise integration solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise includes:
+
+- Pentaho Data Integration (PDI)
+- SQL Server
+- MySQL
+- Enterprise Application Integration (EAI)
+- REST API Integration
+- XML / JSON Processing
+- Database Optimization
+- Production Support
+- ETL Development
+
+---
+
+## Technical Skills
+
+### ETL
+- Pentaho PDI
+- Data Validation
+- Data Migration
+
+### Database
+- Microsoft SQL Server
+- MySQL
+- SQL Optimization
+
+### Integration
+
+- REST API
+- JSON
+- XML
+- CSV
+- SFTP
+
+### Programming
+
+- SQL
+- Java (Basic)
+- Shell Script
+
+---
+
+## Featured Projects
+
+Coming Soon
+
+- Invoice ETL Pipeline
+- SQL Performance Optimization
+- REST API Integration
+- XML Processing
+- Power BI Dashboard
+
+---
+
+## Contact
+
+LinkedIn
+
+(Your LinkedIn)
+
+Email
+
+(Your Email)
